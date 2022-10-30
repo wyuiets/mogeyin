@@ -1,5 +1,5 @@
 FROM teddysun/xray
-LABEL maintainer="https://github.com/wyuiets/mogeyts"
+LABEL maintainer="https://github.com/wyuiets/mogeyin"
 
 COPY config.json /etc/xray/config.json
 COPY xray.sh /xray.sh
